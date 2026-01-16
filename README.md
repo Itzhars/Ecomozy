@@ -9,7 +9,7 @@ Check out the live site here: [Ecomzy Live Site](https://ecomzy-ten.vercel.app/)
 
 ## Repository
 
-GitHub Repository: [Ecomzy](https://github.com/yashu1412/Ecomzy.git)
+GitHub Repository: [Ecomzy](https://github.com/Itzhars/Ecomozy)
 
 ## Features
 
